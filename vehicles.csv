@@ -1,0 +1,27 @@
+Age,Gender,Income,Favorite Transport
+5,female,,bicycle
+8,male,,scooter
+10,female,,bicycle
+14,male,,metro
+16,male,,metro
+18,female,,metro
+20,male,200,scooter
+22,female,500,scooter
+23,male,300,scooter
+25,female,800,metro
+27,female,3000,car
+30,female,5000,car
+33,male,7000,car
+40,male,9000,car
+45,male,3000,taxi
+47,female,6000,car
+49,male,8000,car
+53,female,1300,taxi
+56,female,1400,taxi
+57,male,4000,car
+59,female,5500,car
+64,male,6500,car
+68,male,20000,helicopter
+70,female,2500,taxi
+71,male,25000,helicopter
+75,male,30000,helicopter
